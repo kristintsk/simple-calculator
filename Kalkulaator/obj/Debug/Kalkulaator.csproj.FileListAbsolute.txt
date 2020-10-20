@@ -1,0 +1,10 @@
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\bin\Debug\Kalkulaator.exe.config
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\bin\Debug\Kalkulaator.exe
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\bin\Debug\Kalkulaator.pdb
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.csprojAssemblyReference.cache
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.Form1.resources
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.Properties.Resources.resources
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.csproj.GenerateResource.cache
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.exe
+C:\Users\Kristin\source\repos\OOP_2020\Kalkulaator\Kalkulaator\obj\Debug\Kalkulaator.pdb
